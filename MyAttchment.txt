@@ -1,0 +1,4 @@
+This is attachment to the Bug JIR-28
+Added through REST Assured and file is in project level
+So when passing argument no need to send full path to File method
+Just pass the file name 
