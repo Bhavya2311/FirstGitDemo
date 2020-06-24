@@ -79,6 +79,7 @@ public class OAuth2 {
 		
 		System.out.println("Changes to test Git");
 		
+		System.out.println("Changes from GitX");
 
 	}
 
